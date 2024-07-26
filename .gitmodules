@@ -1,0 +1,3 @@
+[submodule "Submodule-test"]
+	path = Submodule-test
+	url = https://github.com/antelif/Submodule-test.git
